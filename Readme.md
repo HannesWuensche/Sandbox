@@ -2,26 +2,26 @@ Datensatzdokumentation
 # SARS-CoV-2 Infektionen in Deutschland
 
 
-[Robert Koch-Institut](https://grid.ac/institutes/grid.13652.33) | RKI  
+**[Robert Koch-Institut | RKI](http://www.rki.de)**
 Nordufer 20  
 13353 Berlin  
 
-FG 32 | Surveillance und elektronisches Melde- und Informationssystem (DEMIS) | ÖGD Kontaktstelle 
+FG 32 | Surveillance und elektronisches Melde- und Informationssystem (DEMIS) | ÖGD Kontaktstelle   
 [Michaela Diercke](https://orcid.org/0000-0002-4678-1813) (Leitung) 
 
-MFI | Methodenentwicklung, Forschungsinfrastruktur und Informationstechnologie 
+MFI | Methodenentwicklung, Forschungsinfrastruktur und Informationstechnologie   
 [Linus Grabenhenrich](https://orcid.org/0000-0002-9300-6625) (Leitung)
 
-IT 4 | Development 
+IT 4 | Development   
 [Herrmann Claus](https://orcid.org/0000-0002-0120-1846) (Leitung)  
 
-MF 4 | Informations- und Forschungsdatenmanagement  
+MF 4 | Informations- und Forschungsdatenmanagement    
 [Hannes Wuensche](https://orcid.org/0000-0002-8837-0326) (Datenkuration)  
  
 
 ---
  
-**Zitieren**
+**Zitieren**  
 Robert Koch-Institut (2023): SARS-CoV-2 Infektionen in Deutschland, Berlin: Zenodo. DOI:[10.5281/zenodo.4681153](https://doi.org/10.5281/zenodo.4681153).  
 
 
