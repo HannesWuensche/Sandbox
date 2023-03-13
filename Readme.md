@@ -1,8 +1,7 @@
 Datensatzdokumentation  
 # SARS-CoV-2 Infektionen in Deutschland
 
-
-**[Robert Koch-Institut | RKI](http://www.rki.de)**
+[Robert Koch-Institut | RKI](http://www.rki.de)  
 Nordufer 20  
 13353 Berlin  
 
